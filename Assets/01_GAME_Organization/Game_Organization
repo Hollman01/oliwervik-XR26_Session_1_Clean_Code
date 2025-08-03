@@ -1,0 +1,18 @@
+Assets/
+├── Scripts/
+│   ├── Core/
+│   │   ├── GameManager.cs
+│   │   ├── SceneLoader.cs
+│   ├── Interfaces/
+│   │   ├── IPlayer.cs
+│   │   ├── IDamageable.cs
+│   ├── Player/
+│   │   ├── PlayerController.cs
+│   │   ├── PlayerInput.cs
+│   ├── Systems/
+│   │   ├── HealthSystem.cs
+│   │   ├── ScoreSystem.cs
+│   ├── UI/
+│   │   ├── UIManager.cs
+│   │   ├── HealthBarUI.cs
+│   │   ├── ScoreUI.cs
